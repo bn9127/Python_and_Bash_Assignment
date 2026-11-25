@@ -1,0 +1,2 @@
+Hello! This is Task 3.
+This file is created to demonstrate writing to a file in Python.
