@@ -1,0 +1,10 @@
+# Ignore Microsoft Word temporary lock files
+~$*
+
+# Ignore Python cache folders
+__pycache__/
+*.pyc
+
+# Ignore OS thumbnail/system files
+Thumbs.db
+.DS_Store
